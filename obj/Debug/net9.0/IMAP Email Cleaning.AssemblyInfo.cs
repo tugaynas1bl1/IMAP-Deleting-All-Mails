@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IMAP Email Cleaning")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbb71ebb6f5cced2044adec1127c77a536b433f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("IMAP Email Cleaning")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IMAP Email Cleaning")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
